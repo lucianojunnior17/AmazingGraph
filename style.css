@@ -1,0 +1,19 @@
+nav {
+    display: flex;
+    justify-content: right;
+    align-items: baseline;
+}
+
+body {
+    background-image: url(AmazingGraph/img/team.jpg);
+    background-size: 400px 300px;
+}
+
+h1 {
+    font-size: 40px;
+    color: orange;
+}
+
+.img {
+    justify-content: right;
+}
