@@ -6,12 +6,12 @@ nav {
 
 body {
     background-image: url(AmazingGraph/img/team.jpg);
-    background-size: 400px 300px;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 {
     font-size: 40px;
-    color: orange;
+    color: #D2872C;
 }
 
 .img {
