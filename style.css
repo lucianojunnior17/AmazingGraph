@@ -1,19 +1,16 @@
-nav {
-    display: flex;
-    justify-content: right;
-    align-items: baseline;
-}
-
 body {
-    background-image: url(AmazingGraph/img/team.jpg);
     font-family: 'Roboto', sans-serif;
+    background-position: right;
+    background-size: cover;
+    justify-content: right;
 }
 
-h1 {
-    font-size: 40px;
-    color: #D2872C;
+img {
+    justify-content: center;
 }
 
 .img {
-    justify-content: right;
+    display: flex;
+    justify-content: left;
+    flex-direction: column-reverse;
 }
