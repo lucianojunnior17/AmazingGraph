@@ -5,12 +5,32 @@ body {
     justify-content: right;
 }
 
-img {
-    justify-content: center;
+nav {
+    display: flex;
+    justify-content: right;
+    align-items: right;
 }
+
 
 .img {
     display: flex;
     justify-content: left;
     flex-direction: column-reverse;
+    width :380;
+    height:380;
+}
+
+h1 {
+    font-size: 35px;
+    color: orange;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    margin-left: 20px;
+}
+h2 {
+    display: flexbox;
+    justify-content: left;
+    color: #766F68;
+    font-size: 60px;
 }
